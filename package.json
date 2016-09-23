@@ -1,0 +1,11 @@
+{
+  "name": "rss_scraper",
+  "version": "1.0.0",
+  "description": "School RSS feed scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Barney Scott <barney@pushing-pixels.co.uk>",
+  "license": "ISC"
+}
