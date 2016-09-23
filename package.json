@@ -4,8 +4,16 @@
   "description": "School RSS feed scraper",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint index.js \"src/*.js\"",
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmds/rss_scrape.git"
+  },
   "author": "Barney Scott <barney@pushing-pixels.co.uk>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.5.0"
+  }
 }
